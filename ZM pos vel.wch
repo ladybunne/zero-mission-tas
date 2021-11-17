@@ -1,0 +1,6 @@
+SystemID GBA
+13E6	d	u	0	IWRAM	xpos
+13E8	d	u	0	IWRAM	ypos
+13EA	d	u	0	IWRAM	xvel
+13EC	d	u	0	IWRAM	yvel
+
